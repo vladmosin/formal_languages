@@ -1,5 +1,5 @@
 # DFA-minimizer # 
-Implementation of compression algorithm for deterministic finite state machine. 
+< Implementation of compression algorithm for deterministic finite state machine. >
 How to run: 
 make 
 ./min_aut <input file> 
